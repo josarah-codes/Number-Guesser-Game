@@ -1,0 +1,16 @@
+def double(number):
+    return number * 2
+    
+new_number = double(5)
+
+print(new_number)
+
+def upper_case(sentence):
+    return sentence.upper()
+
+print(upper_case("JoAnn can put text in all caps in python"))
+
+names = ['JoAnn','Rachel','Olivia']
+
+for name in names:
+    print(upper_case(f"{name} can put text in all caps in python"))
