@@ -1,0 +1,6 @@
+def bark():
+    print("woof woof!")
+    print("I'm a dog!")
+    
+for x in range(100):
+    bark()
