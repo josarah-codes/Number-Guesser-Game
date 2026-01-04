@@ -1,0 +1,20 @@
+def hello(name): #def is a function, which is defined by whatever is in a parameter. parameters go in ()
+    print(f"Hello {name}")
+    
+hello("JoAnn")
+
+def add_numbers(num1,num2):
+    print(num1 + num2)
+
+add_numbers(4,8)
+add_numbers(3,7)
+
+def dog_info(dog_name,dog_age):
+    print(f"Hi my name is {dog_name} and i am {dog_age} years old")
+
+dog_info("Trixie",11)
+
+def boss(task_name,employee_name):
+    print(f"Hi {employee_name}, have you done {task_name} today?")
+
+boss("the workshop register","JoAnn")
