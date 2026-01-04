@@ -1,0 +1,7 @@
+wallet=40 #I can show my thinking on my expenses with comments!!
+
+wallet-=8 #I bought pizza
+
+wallet+=40 #payday!
+
+#I can use comments to note where I can't get code to work to go back to later and to show my thinking/ learning
